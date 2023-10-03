@@ -1,4 +1,4 @@
-''' json
+```json
 
 {
   "name": "Sushguy",
@@ -18,4 +18,4 @@
   "learning": "middle school",
   "hasBrainDamage": true
   }
-'''
+```
