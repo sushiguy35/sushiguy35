@@ -1,3 +1,5 @@
+''' json
+
 {
   "name": "Sushguy",
   "age": 12,
@@ -16,3 +18,4 @@
   "learning": "middle school",
   "hasBrainDamage": true
   }
+'''
