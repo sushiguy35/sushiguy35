@@ -22,9 +22,11 @@
   "hasBrainDamage": true
   }
 ```
-##
-##  
+
+#
 
 ## Projects
 
 * [SushiGames](https://sushigames.org)
+* [SushiMusic](https://open.spotify.com/artist/40cUC0jfAHbFyKLpqUWGts?si=otjttYqsTFGqmgETLd9_7w)
+* I am also developing an search engine much like google
