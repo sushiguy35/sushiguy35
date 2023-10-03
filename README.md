@@ -22,7 +22,9 @@
   "hasBrainDamage": true
   }
 ```
+##
+##  
 
 ## Projects
 
-* [sushigames](https://www.sushigames.org)
+* [SushiGames](https://sushigames.org)
