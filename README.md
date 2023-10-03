@@ -25,4 +25,4 @@
 
 ## Projects
 
-[I'm an inline-style link](https://www.google.com)
+* [sushigames](https://www.sushigames.org)
