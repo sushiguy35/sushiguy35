@@ -1,6 +1,6 @@
 {
   "name": "Sushguy",
-  "": ,
+  "age": 12,
   "intrests": ["programming", "gaming", "tech"],
   "operatingSystem": "Linux Mint",
   "browser": "chromium",
@@ -12,7 +12,7 @@
     "discord": ".sushiguy.",
     "spotify": "https://open.spotify.com/artist/40cUC0jfAHbFyKLpqUWGts?si=otjttYqsTFGqmgETLd9_7w",
   },
-  "certifications": ["A+ (Unoffical)"],
+  "grade": ["A+ (Unoffical)"],
   "learning": "middle school",
   "hasBrainDamage": true
-}
+  }
