@@ -7,7 +7,7 @@
   "name": "Sushguy",
   "age": 12,
   "intrests": ["programming", "gaming", "tech"],
-  "operatingSystem": "Windows 10",
+  "operatingSystem": "Linux Lite",
   "browser": "Chrome",
   "programmingLanguages": ["Javascript", "HTML", "C++", "C", "CSS"],
   "editor": "VS Code",
