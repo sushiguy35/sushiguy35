@@ -20,16 +20,27 @@
 
 <h3 align="left">Languages and Tools:</h3>
 - x86 Assembly
+
 - C
+
 - C++
+
 - C#
+
 - BrainFuck
+
 - Java
+
 - Python
+
 - JavaScript
+
 - Html / CSS
+
 - SQL
+
 - TypeScript
+
 - Bash
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushiguy35&show_icons=true&theme=gruvbox&title_color=ffffff&text_color=ffffff&bg_color=999999&locale=en&layout=compact" alt="sushiguy35" /></p>
