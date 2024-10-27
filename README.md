@@ -6,8 +6,7 @@
 
 ![](photos/C.png)
 ![](photos/C++.png)
-![](photos/sfml.png)
-![](photos/windows.png)
+
 
 <h3>PROFICIENT</h3>
 
