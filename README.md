@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm SUSHIGUY</h1>
 <h3 align="center">A Passionate Developer From Sweden</h3>
-
-<h2>LANGUAGES</h2>
 <h3>EXPERIENCED</h3>
 
 ![](photos/C.png)
 ![](photos/C++.png)
+![](photos/Linux.png)
+
 
 
 <h3>PROFICIENT</h3>
 
-![](photos/Linux.png)
 ![](photos/github.png)
 ![](photos/git.png)
 ![](photos/js.png)
